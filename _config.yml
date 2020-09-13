@@ -24,8 +24,8 @@ github_username:  majidalikhanquaid
 
 # Build settings
 markdown: kramdown
-theme: minima
-# remote_theme: thelehhman/plainwhite-jekyll
+# theme: minima
+remote_theme: samarsault/plainwhite-jekyll
 # theme: plainwhite
 plugins:
   - jekyll-feed
