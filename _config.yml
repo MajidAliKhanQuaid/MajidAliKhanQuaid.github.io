@@ -20,13 +20,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://majidalikhanquaid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: majidakhanquaid
-github_username:  majidalikhanquaid
+github_username: majidalikhanquaid
 
 # Build settings
 markdown: kramdown
 # theme: minima
 remote_theme: thelehhman/plainwhite-jekyll
-#theme: plainwhite
+# theme: plainwhite
 plugins:
   - jekyll-feed
 
@@ -36,12 +36,13 @@ plainwhite:
   name: Majid Ali Khan Quaid
   tagline: .Net Dev
   date_format: "%b %-d, %Y"
+  portfolio_image: "assets/portfolio.png"
 
   social_links:
     twitter: majidakhanquaid
-    github:  majidalikhanquaid
-    linkedIn: pk/majidalikhanquaid # format: locale/username
-    
+    github: majidalikhanquaid
+    linkedIn: in/majidalikhanquaid # format: locale/username
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
